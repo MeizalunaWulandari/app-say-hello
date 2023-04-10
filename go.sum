@@ -2,3 +2,5 @@ github.com/MeizalunaWulandari/go-say-hello v1.0.0 h1:08GpRwpPnr51fO3lFQM0oS7Ps9Y
 github.com/MeizalunaWulandari/go-say-hello v1.0.0/go.mod h1:mGQsF8kC83INpjkrXkcuu2Bbfb1Tzmqb3p2nvElV0Ks=
 github.com/MeizalunaWulandari/go-say-hello v1.5.0 h1:IegMDDJjXIZv1UVeDegDpA+UIu6wM64617v86p3AyWY=
 github.com/MeizalunaWulandari/go-say-hello v1.5.0/go.mod h1:mGQsF8kC83INpjkrXkcuu2Bbfb1Tzmqb3p2nvElV0Ks=
+github.com/MeizalunaWulandari/go-say-hello/v2 v2.0.0 h1:tIi1U3QgSMVFKV9iKeF5KM3ylEDY7itYjv/RC/YIWHc=
+github.com/MeizalunaWulandari/go-say-hello/v2 v2.0.0/go.mod h1:pVVJK+9wlG9sJJ23bsh4g2K4cCsPY2XXvTfjbKcO0BQ=
